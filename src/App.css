@@ -1,5 +1,33 @@
 .App {
   text-align: center;
+  margin:0px;
+  height:100%;
+  background-image: linear-gradient(to right, rgb(115, 72, 214), #f74698);
+  width: 100%;
+  color: white;
+}
+
+.navbar-brand{
+  color: white;
+}
+
+.nav-link{
+  color:white;
+}
+
+.btn {
+  margin: 2px 5px;
+}
+
+.btn-info{
+  background-color: rgb(115, 72, 214);
+  color: white;
+  border-radius: 10px;
+  border-style: outset; 
+}
+
+.navbar {
+  background-image: linear-gradient(to right, rgb(117, 74, 216), #f54496);
 }
 
 .App-logo {
